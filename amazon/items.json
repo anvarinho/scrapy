@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Build: An Unorthodox Guide to Making Things Worth Making",
+        "author": "Tony Fadell",
+        "price": "$26.94",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71BG9PNQGXL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Good Arguments: How Debate Teaches Us to Listen and Be Heard",
+        "author": "Bo Seo",
+        "price": "$25.49",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71BS1qDvLTL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Don't Trust Your Gut: Using Data to Get What You Really Want in Life",
+        "author": "Seth Stephens-Davidowitz",
+        "price": "$18.16",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81tuxGbEbbL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "The YouTube Formula: How Anyone Can Unlock the Algorithm to Drive Views, Build an Audience, and Grow Revenue",
+        "author": "Derral Eves",
+        "price": "$15.30",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/814fIzfSYLL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "The Truth About Crypto: A Practical, Easy-to-Understand Guide to Bitcoin, Blockchain, NFTs, and Other Digital Assets",
+        "author": "Ric Edelman",
+        "price": "$5.15",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71f2vuhHl2L._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Fluent Python: Clear, Concise, and Effective Programming",
+        "author": "Luciano Ramalho",
+        "price": "$44.42",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81OvszBEdhL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Minecraft: Amazing Bite-Size Builds (Over 20 Awesome Mini-Projects)",
+        "author": "Mojang AB",
+        "price": "$9.19",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/815ovAhpGBL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "EXCEL 2022: The Most Comprehensive Crash Course to Master Microsoft Excel from Scratch in Just 7 Days. Become a Professional Discovering All the Features and Functions with Step-By-Step Tutorials.",
+        "author": "Henry Sanders",
+        "price": "$5.00",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61IXWvsobBL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Head First Java: A Brain-Friendly Guide",
+        "author": "Kathy Sierra",
+        "price": "$55.22",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81wAshyxQyL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential",
+        "author": "Tiago Forte",
+        "price": "$22.61",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61Txn6zWm1L._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "The Truth About Crypto: A Practical, Easy-to-Understand Guide to Bitcoin, Blockchain, NFTs, and Other Digital Assets",
+        "author": "Ric Edelman",
+        "price": "$16.53",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81k1WdWDIKL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "The Consistency Pill: The 7 Step System to Increase Sales and Transform Your Business",
+        "author": "Simon Chan",
+        "price": "$12.95",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51vSBDSqBAL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications",
+        "author": "Chip Huyen",
+        "price": "$43.49",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81aSHEzSB1L._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Capitalist Manifesto",
+        "author": "Robert T Kiyosaki",
+        "price": "$19.95",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81JaxDQ2k6L._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "The Art of Horizon Forbidden West",
+        "author": "Guerrilla Games",
+        "price": "$44.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91HsuXmKa4L._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks",
+        "author": "Daniel A. Roberts",
+        "price": "$71.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71WzAPykhHL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "The Digital Mindset: What It Really Takes to Thrive in the Age of Data, Algorithms, and AI",
+        "author": "Paul Leonardi",
+        "price": "$18.18",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71aHl0ehr8S._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Fundamentals of Data Engineering: Plan and Build Robust Data Systems",
+        "author": "Joe Reis",
+        "price": "$62.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81YcQ+8LUPL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential",
+        "author": "Tiago Forte",
+        "price": "$14.88",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71qiF6O+4zL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "The Consistency Pill: The 7 Step System to Increase Sales and Transform Your Business",
+        "author": "Simon Chan",
+        "price": "$0.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71yWeGYBiIL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Cat + Gamer Volume 1",
+        "author": "Wataru Nadatani",
+        "price": "$9.42",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71OApZiH0dL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "The Metaverse: And How it Will Revolutionize Everything",
+        "author": "Matthew Ball",
+        "price": "$27.00",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71mvYyGfYyL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Social Media Marketing for Small Business 2022: 6 Books in 1: The Best Guide for Beginners to Master and Make Money with Youtube, Facebook, Tiktok, Google and SEO",
+        "author": "Kelly Lee",
+        "price": "$26.21",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71mG3Ek1hZL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Final Fantasy XIV: Endwalker -- The Art of Resurrection -Among the Stars-",
+        "author": "Square Enix",
+        "price": "$34.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91CxkeHrO-L._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Three Steps to Quantum Wealth: The Wealth Heiress\u2019 Guide to Financial Freedom by Investing in Cryptocurrencies",
+        "author": "Linda P. Jones",
+        "price": "$17.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91LuwmqJX5L._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "The Definitive Guide to TikTok Advertising: How to Access 1 Billion People in 10 Minutes!",
+        "author": "Perry Marshall",
+        "price": "$8.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/715-EHTlGbL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Content (The MIT Press Essential Knowledge series)",
+        "author": "Kate Eichhorn",
+        "price": "$10.71",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61bzuAGXSdL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "The Field Guide to Global Payments",
+        "author": "Sophia Goldberg",
+        "price": "$34.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81m+Kh+ib1L._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "CISM Certified Information Security Manager Study Guide",
+        "author": "Mike Chapple",
+        "price": "$37.68",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/713S1RbqaHL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Encyclopaedia Eorzea ~The World of Final Fantasy XIV~ Volume I",
+        "author": "Square Enix",
+        "price": "$39.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91NQ7O2Zk7L._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "The Elder Scrolls V: Skyrim Tarot Deck and Guidebook (Gaming)",
+        "author": "Tori Schafer",
+        "price": "$24.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71fQYxpwRbL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Head First Java",
+        "author": "Kathy Sierra",
+        "price": "$43.19",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81wAshyxQyL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "All You Need to Know About Metaverse: Complete Survey on Technologies, Extended Reality, Artificial Intelligence, Blockchain, Computer Vision and Future Mobile Networks",
+        "author": "Jim Colajuta",
+        "price": "$6.08",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81TczS+6qkL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Encyclopaedia Eorzea ~The World of Final Fantasy XIV~ Volume II",
+        "author": "Square Enix",
+        "price": "$39.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91EDBp7+9rL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "MINECRAFT: LASER DOOR: Safest DOOR with Build Hack Redstone NO MOD",
+        "author": "Hiana Umei",
+        "price": "$3.10",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61ZNkMwXCUL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "The Truth About Crypto: A Practical, Easy-to-Understand Guide to Bitcoin, Blockchain, NFTs, and Other Digital Assets",
+        "author": "Ric Edelman",
+        "price": "$14.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71f2vuhHl2L._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Pieces of the Action",
+        "author": "Vannevar Bush",
+        "price": "$24.00",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81MayWqGA4L._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "SQL: The Ultimate Expert Guide To Learn SQL Programming Step-by-Step (Computer Programming)",
+        "author": "Mark Reed",
+        "price": "$3.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71JAyBcmKlL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "NFTs & Cryptocurrency Investment Course: The Complete Cryptocurrency Course with Profitable Trading Strategies. Discover Why the Altcoins Are Revolutionizing NFTs, DeFi, Gaming & More",
+        "author": "Vitalik B\u00f9terin",
+        "price": "$25.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/817qQWLJO0L._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "iPad Seniors Guide: The Most Intuitive and Exhaustive Manual to Master Your New iPad from Scratch. A Detailed Step-by-Step Guide with Pictures and Useful Tips & Tricks",
+        "author": "George Halperin",
+        "price": "$18.95",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61ptTK0XPFL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "The Digital Mindset: What It Really Takes to Thrive in the Age of Data, Algorithms, and AI",
+        "author": "Paul Leonardi",
+        "price": "$14.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71aHl0ehr8S._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Building Data Science Solutions with Anaconda: A comprehensive starter guide to building robust and complete models",
+        "author": "Dan Meador",
+        "price": "$44.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61JSyXXEC3L._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Designing Machine Learning Systems",
+        "author": "Chip Huyen",
+        "price": "$36.79",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81X2qf59UVL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Final Fantasy VII Remake: Material Ultimania Plus",
+        "author": "Studio BentStuff",
+        "price": "$35.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91j-b-HnP0L._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "101 Podcast Episode Templates \u2013 Powerful, Done-for-You Episode Templates to Grow Your Podcast Audience (Big Podcast)",
+        "author": "David Hooper",
+        "price": "$0.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71bCTD5dLEL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Creepy Kawaii Coloring Book: Horror Gothic Spooky Chibi Coloring Pages Pastel.",
+        "author": "Hana Hayashi",
+        "price": "$6.97",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71V0+P1Gx5L._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "The Complete New Weight Watchers Cookbook Edition 2022: An ultimate guide for WW recipes for fast weight loss and Great Health",
+        "author": "Bonita C. Rummel",
+        "price": "$17.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71GqQ4UqF5L._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Content (The MIT Press Essential Knowledge series)",
+        "author": "Kate Eichhorn",
+        "price": "$12.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61opVZw-xeL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Elements of Programming Interviews in Python: The Insiders' Guide",
+        "author": "Adnan  Aziz",
+        "price": "$5.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51OoVYM0uAL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Halo: The Official Cookbook (Gaming)",
+        "author": "Victoria Rosenthal",
+        "price": "$35.00",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81nAxrPfeKL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Design Your Own Anime and Manga Characters: Step-by-Step Lessons for Creating and Drawing Unique Characters - Learn Anatomy, Poses, Expressions, Costumes, and More",
+        "author": "TB Choi",
+        "price": "$22.49",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91SJl4U14sL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "The Metrics Manifesto: Confronting Security with Data",
+        "author": "Richard Seiersen",
+        "price": "$26.08",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/A14VBn0zfcL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Minecraft: Mobs Glow-in-the-Dark Lock & Key Diary (Gaming)",
+        "author": "Insights",
+        "price": "$13.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71c7-p8g8cL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Bitcoin Is Venice: Essays on the Past and Future of Capitalism",
+        "author": "Allen Farrington",
+        "price": "$16.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81ETB+U3ctL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Threshold: The Kathla Chronicles",
+        "author": "R C Ducantlin",
+        "price": "$2.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91nl6Vkh0oL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Everything Data Analytics-A Beginner's Guide to Data Literacy: Understanding the Processes That Turn Data Into Insights (Guides for Data Analytics, Data Visualization, and Communicating Data)",
+        "author": "Elizabeth Clarke",
+        "price": "$8.95",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51mH3yKKJFL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "The Star Trek Book of Friendship: You Have Been, and Always Shall Be, My Friend",
+        "author": "Robb Pearlman",
+        "price": "$9.35",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81F7inwQKfL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "The Advanced Roblox Coding Book: An Unofficial Guide, Updated Edition: Learn How to Script Games, Code Objects and Settings, and Create Your Own World! (Unofficial Roblox)",
+        "author": "Heath Haskins",
+        "price": "$10.81",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81tu7qSRraL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "2600 Magazine: The Hacker Quarterly - Mac/PC - Spring 2022",
+        "author": "2600 Magazine",
+        "price": "$5.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91jqKs-Nr9L._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Metaverse for Beginners: The Ultimate Guide to Understanding and Investing in Web 3.0, NFTs, Crypto Gaming, and Virtual Reality",
+        "author": "Donn Newman",
+        "price": "$13.08",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81rzPdACkkL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Observability Engineering",
+        "author": "Charity Majors",
+        "price": "$36.79",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81fuzyAMQ8L._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Sudoku for Kids Ages 6-12 - Vol.3 by Round Duck: 200 Easy Sudoku Puzzles with Solutions Fun Activity, Beginners Book for Early Learning Math and ... Basic Rules of the Game, Keep them Thinking",
+        "author": "Round Duck",
+        "price": "$8.95",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61yGQT1N20L._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Peopleware: Productive Projects and Teams",
+        "author": "DeMarco Tom",
+        "price": "$17.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81p0axLyP6L._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Pok\u00e9mon TCG: The ultimate Pokemon TCG Online guide",
+        "author": "Eduardo Navarrete",
+        "price": "$2.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81vb6LktO0S._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Metaverse Investing & the Future of Virtual Real Estate: A Beginner's Guide to Virtual Reality, Cryptocurrency, NFTs, & the Ethereum Blockchain: Decentralized Finance (DeFi) & Digital Assets",
+        "author": "Oscar Snow",
+        "price": "$17.46",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81PbAZez7VL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Cat + Gamer Volume 2 (Cat + Gamer, 2)",
+        "author": "Wataru Nadatani",
+        "price": "$11.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91NHN3CeoQL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Delphi Legacy Projects: Strategies and Survival Guide",
+        "author": "WILLIAM H MEYER",
+        "price": "$49.90",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/611BhEgNSiL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "C#: The Ultimate Advanced Guide To Master C# Programming (Computer Programming)",
+        "author": "Mark Reed",
+        "price": "$3.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71ynBDsXz5L._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "The Ultimate Guide to Investing in Cryptocurrency: How to Make Money on Blockchain, DeFi, Bitcoin, Altcoins, NFTs, and the Next Big Thing: The Metaverse",
+        "author": "Christie Brothers",
+        "price": "$13.08",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81PVkkVFrlL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "101 Podcast Episode Templates \u2013 Powerful, Done-for-You Episode Templates to Grow Your Podcast Audience (Big Podcast)",
+        "author": "David Hooper",
+        "price": "$6.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61AqWWHx8aL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Excel 2022: The Complete Illustrative Guide for Beginners to Learning any Fundamental, Formula, Function and Chart in Less than 5 Minutes with Simple and Real-Life Examples",
+        "author": "Nigel Tillery",
+        "price": "$9.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61K7XGbMe9L._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Gotham Knights: The Official Collector's Compendium (Gaming)",
+        "author": "Michael Owen",
+        "price": "$39.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61Njzr35jHL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Ways of Being: Animals, Plants, Machines: The Search for a Planetary Intelligence",
+        "author": "James Bridle",
+        "price": "$30.00",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91O00Zs7HOL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "The Legend of Final Fantasy X",
+        "author": "Damien Mecheri",
+        "price": "$29.95",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51uKZTHLuwL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Email Marketing Optimization: Send, Track and Improve Your Email Marketing Campaigns and Sales Funnels",
+        "author": "Lanie Lamarre",
+        "price": "$4.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/717EM6qzgUL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "No ML Degree : How to Land Your First Machine Learning Job Without a Degree",
+        "author": "Emil Walln\u00e9r",
+        "price": "$9.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61pTOaw5UAL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "The Ultimate RPG Character Backstory Guide: Expanded Genres Edition: Prompts and Activities to Create Compelling Characters for Horror, Sci-Fi, X-Punk, and More (The Ultimate RPG Guide Series)",
+        "author": "James D\u2019Amato",
+        "price": "$15.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/710rrOoopkL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Spectrum Learning Library Preschool Workbooks Set, PreK Math Readiness, Reading Readiness, Writing Readiness, And Basic Concepts Toddler Activity Books, Classroom Or Homeschool Curriculum",
+        "author": "Spectrum",
+        "price": "$27.10",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81-MQE2+9VL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Lessons from Systems Thinkers: Problem-Solving and Analytical Thinking Methods from the Greatest Innovative Minds (The Systems Thinker Series)",
+        "author": "Albert Rutherford",
+        "price": "$13.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61xtmz2Hr3L._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "How to Zoom Your Room: Room Rater's Ultimate Style Guide",
+        "author": "Claude Taylor",
+        "price": "$22.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81fvIRLxNwL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "MINECRAFT: TOP 10 REDSTONE Handbook Pro Build (1) (HandBook REDSTONE)",
+        "author": "Kami Jamus",
+        "price": "$4.60",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/610elyvbPgL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Microsoft Word 2022: The Most Updated Crash Course from Beginner to Advanced | Learn All the Functions and Features to Become a Pro in 7 Days or Less",
+        "author": "James Holler",
+        "price": "$9.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71StgUhxD0L._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Everything I Need I Get from You: How Fangirls Created the Internet as We Know It",
+        "author": "Kaitlyn Tiffany",
+        "price": "$17.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/A1RJFsD3ZyL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Product Management in Practice: A Practical, Tactical Guide for Your First Day and Every Day After",
+        "author": "Matt LeMay",
+        "price": "$39.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81xBCXjCXjL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Cloud Security for Dummies",
+        "author": "Ted Coombs",
+        "price": "$21.43",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81yDPctNUlL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "I've Got Your Back: The Indispensable Guide to Stopping Harassment When You See It",
+        "author": "Jorge Arteaga",
+        "price": "$12.94",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61nMZPzSrGL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency",
+        "author": "Andy Greenberg",
+        "price": "$14.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/717oMDpuAXL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Minecraft: SUMER 2022 Build Hacks (Vol 1): Beach Decoration",
+        "author": "Vova Bichie",
+        "price": "$3.60",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71z5ZQ5PRlL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "The Witcher Official Cookbook: Provisions, Fare, and Culinary Tales from Travels Across the Continent",
+        "author": "Anita Sarna",
+        "price": "$29.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71Tfdazu6xL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "CompTIA A+ Certification All-in-One Exam Guide, Eleventh Edition (Exams 220-1101 & 220-1102)",
+        "author": "Mike Meyers",
+        "price": "$54.00",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81YQajC0zdL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "The Elements of Voice First Style: A Practical Guide to Voice User Interface Design",
+        "author": "Ahmed Bouzid",
+        "price": "$29.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/816CDaBj7VL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "An Internet in Your Head: A New Paradigm for How the Brain Works",
+        "author": "Daniel Graham",
+        "price": "$15.30",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81qCIezXwWL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Product Management in Practice",
+        "author": "Matt LeMay",
+        "price": "$19.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81lbWFN9y2L._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "The Deep-sky Imaging Primer, Third Edition",
+        "author": "Charles Bracken",
+        "price": "$49.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61swZstqlqL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Essential Math for Data Science",
+        "author": "Thomas Nield",
+        "price": "$36.79",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81RiDmmmEBL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Fallout: The Official Tarot Deck and Guidebook (Gaming)",
+        "author": "Insight Editions",
+        "price": "$24.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81GTIlJ1WbL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Cybersecurity Maturity Model Certification CMMC 2.0 Assessment Handbook: An Implementation and Self-Assessment Guide for CUI, NIST SP 800-171, and CMMC 2.0.",
+        "author": "Douglas J. Landoll",
+        "price": "$34.95",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61lI4-GemSL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Android Programming: The Big Nerd Ranch Guide",
+        "author": "Kristin Marsicano",
+        "price": "$29.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51hNCVSGCfL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "P.PPY game book: Liar - Poppy Playtime",
+        "author": "Nelson Frye",
+        "price": "$3.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81BlQUlL9FL._AC_UL302_SR302,200_.jpg"
+    },
+    {
+        "name": "Procreate For iPads 2022: The Complete Manual for Beginners and Pro with Tips and Tricks to Creating Good Art and Design on iPads Using Procreate App",
+        "author": "Christopher  Parker",
+        "price": "$4.95",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81J5JMruF8L._AC_UL302_SR302,200_.jpg"
+    }
+]
